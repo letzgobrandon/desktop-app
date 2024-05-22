@@ -306,7 +306,7 @@
     "median": "^0.0.2",
     "memoize-bind": "^1.0.3",
     "memoizee": "0.4.12",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.6",
     "millisec": "^0.2.0",
     "mkdirp": "^0.5.1",
     "mod-op": "^1.0.0",
